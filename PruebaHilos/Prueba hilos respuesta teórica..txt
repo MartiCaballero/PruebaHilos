@@ -1,0 +1,8 @@
+Prueba hilos
+Pregunta:
+Se obtiene el mismo resultado si se vuelve a correr el programa?
+Justifique
+
+Respuesta: 
+Para la solución de este ejercicio, la idea es generar una 'velocidad' aleatoria para cada corredor. Por ende, es poco probable que se obtenga siempre el mismo resultado al ejecutar el programa. 
+La idea es que cada vez que el programa sea ejecutado, los valores dados como aleatorios cambien de forma random. Lo que significa que estos no van a ser los mismos, llegando a distintos resultados. 

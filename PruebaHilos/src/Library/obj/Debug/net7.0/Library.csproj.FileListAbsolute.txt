@@ -1,0 +1,11 @@
+C:\Carpet1\PruebaHilos\src\Library\bin\Debug\net7.0\Library.deps.json
+C:\Carpet1\PruebaHilos\src\Library\bin\Debug\net7.0\Library.dll
+C:\Carpet1\PruebaHilos\src\Library\bin\Debug\net7.0\Library.pdb
+C:\Carpet1\PruebaHilos\src\Library\obj\Debug\net7.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Carpet1\PruebaHilos\src\Library\obj\Debug\net7.0\Library.AssemblyInfoInputs.cache
+C:\Carpet1\PruebaHilos\src\Library\obj\Debug\net7.0\Library.AssemblyInfo.cs
+C:\Carpet1\PruebaHilos\src\Library\obj\Debug\net7.0\Library.csproj.CoreCompileInputs.cache
+C:\Carpet1\PruebaHilos\src\Library\obj\Debug\net7.0\Library.dll
+C:\Carpet1\PruebaHilos\src\Library\obj\Debug\net7.0\refint\Library.dll
+C:\Carpet1\PruebaHilos\src\Library\obj\Debug\net7.0\Library.pdb
+C:\Carpet1\PruebaHilos\src\Library\obj\Debug\net7.0\ref\Library.dll
